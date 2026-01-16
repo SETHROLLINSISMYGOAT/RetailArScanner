@@ -1,4 +1,4 @@
-                                                            Retail Shelf AR Scanner
+                Retail Shelf AR Scanner
 
 
 A real-time Augmented Reality (AR) mobile application built for retail shelf auditing. This application identifies products on a shelf and uses AR overlays to mark them as detected, ensuring a seamless and non-repetitive scanning experience.
